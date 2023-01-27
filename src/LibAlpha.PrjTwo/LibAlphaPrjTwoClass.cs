@@ -2,6 +2,6 @@
 {
     public class LibAlphaPrjTwoClass
     {
-        public string AppendName(string text) => (text + " (M1)" + nameof(LibAlphaPrjTwoClass)).Trim();
+        public string AppendName(string text) => (text + " (M2)" + nameof(LibAlphaPrjTwoClass)).Trim();
     }
 }
